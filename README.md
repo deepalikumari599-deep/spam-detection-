@@ -2,8 +2,6 @@
 
 Try spam detection- https://cv2duygkp2q7ewcurtwjk2.streamlit.app/
 
-Sure — here is a **short and simple README.md** for your Spam Detection project:
-
 # Spam Detection
 
 This project detects whether a message/email is **Spam** or **Not Spam** using Machine Learning.
